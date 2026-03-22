@@ -1,6 +1,6 @@
 # BER Mecha Agent v1 — Multi-channel AI Automation System
 
-![Mecha](My_mecha.png)
+<img src="My_mecha.png" width="1000">
 
 ## 🚀 Overview
 This is my first multi-channel AI automation agent.
