@@ -9,7 +9,6 @@ During the process, I gradually integrated multiple tools such as Gmail, Notion,
 
 This is not a one-time project, but an evolving system that I will continue to iterate and improve over time.
 
----
 
 ## 🧠 What it does
 
@@ -21,7 +20,6 @@ This is not a one-time project, but an evolving system that I will continue to i
 - Enable interaction and control via WhatsApp
 - Connect multiple tools into a unified automation workflow
 
----
 
 ## ⚙️ System Architecture
 
@@ -39,7 +37,6 @@ This forms a basic AI agent loop:
 
 Input → Process → Decide → Execute → Store
 
----
 
 ## 📂 Key Components
 
@@ -52,7 +49,6 @@ Input → Process → Decide → Execute → Store
 - Notion integration  
   Used for logging and structured data storage
 
----
 
 ## 💡 Why I built this
 
@@ -64,7 +60,6 @@ Instead of only learning theory, I chose to build real systems to:
 - Improve execution and system-building ability
 - Create practical, demonstrable experience
 
----
 
 ## 🛠 Tech Stack
 
@@ -75,13 +70,11 @@ Instead of only learning theory, I chose to build real systems to:
 - JSON / API integration
 - Automation workflow design
 
----
 
 ## ⚠️ Notes
 
 Sensitive files such as credentials and tokens are excluded for security reasons.
 
----
 
 ## 📈 Next Steps
 
@@ -91,7 +84,6 @@ Sensitive files such as credentials and tokens are excluded for security reasons
 - Expand to more channels (e.g., Slack, Webhooks)
 - Build a more robust agent system
 
----
 
 ## 👤 Author
 
