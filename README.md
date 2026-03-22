@@ -57,6 +57,19 @@ Input → Process → Decide → Execute → Store
   Used for logging and structured data storage
 
 ---
+## 🧩 Implementation Note
+
+This project is not purely code-based.
+
+The system is composed of:
+- Python scripts (for email processing logic)
+- OpenClaw workflows (for automation orchestration)
+- External tool integrations (Gmail, Notion, WhatsApp)
+
+On top of that, I also made some adjustments to the underlying configuration and parts of the OpenClaw codebase to better fit my use case.
+
+As a result, much of the logic is distributed across workflow configuration, system integration, and selective  modifications, rather than being concentrated in a single code file.
+
 
 ## 💡 Why I built this
 
