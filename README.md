@@ -1,4 +1,4 @@
-# BER-mecha-agent-v1
+# BER Mecha Agent v1 — Multi-channel AI Automation System
 
 ## 🚀 Overview
 This is my first multi-channel AI automation agent.
