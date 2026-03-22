@@ -1,5 +1,7 @@
 # BER Mecha Agent v1 — Multi-channel AI Automation System
 
+![Mecha](My_mecha.png)
+
 ## 🚀 Overview
 This is my first multi-channel AI automation agent.
 
@@ -96,6 +98,9 @@ Sensitive files such as credentials and tokens are excluded for security reasons
 - Build a more robust agent system
 
 ---
+## 🧩 Architecture Diagram
+
+![Architecture](seline_ai_architecture_pro.png)
 
 ## 👤 Author
 
